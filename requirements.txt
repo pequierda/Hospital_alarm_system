@@ -1,0 +1,18 @@
+# Alarm System Requirements
+# External dependencies for system tray functionality
+
+# Python 3.6+ required
+# Built-in modules used:
+# - socket (for network communication)
+# - threading (for concurrent operations)
+# - json (for message formatting)
+# - time (for timing operations)
+# - tkinter (for GUI popups - included with Python)
+# - winsound (for audio alerts - Windows only)
+
+# External dependencies:
+pystray>=0.19.4
+Pillow>=9.0.0
+pygame>=2.0.0
+
+# Note: Install with: pip install pystray Pillow pygame
