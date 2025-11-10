@@ -1,0 +1,2 @@
+[2025-11-05 08:56:12] | Admin: admin | Alarm Type: FIRE ALARM | Floor: Ground Floor | Message: FIRE ALARM - GROUND FLOOR - EVACUATE IMMEDIATELY | Color: #e74c3c | Icon: 🔥 | Recipients: 1 client(s)
+[2025-11-05 09:01:27] | Admin: admin | Alarm Type: FIRE ALARM | Floor: Ground Floor | Message: FIRE ALARM - GROUND FLOOR - EVACUATE IMMEDIATELY | Color: #e74c3c | Icon: 🔥 | Recipients: 1 client(s)
